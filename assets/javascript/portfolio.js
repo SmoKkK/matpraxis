@@ -47,7 +47,7 @@ $(document).ready(() => {
     },
     {
       name: 'Echo Staff are Retards',
-      link: 'https://imgur.com/a/1j53GSZ',
+      link: 'https://imgur.com/a/SNVbY70',
     },
   ];
 
